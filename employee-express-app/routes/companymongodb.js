@@ -3,7 +3,7 @@ var express = require('express');
 var mongoose = require('mongoose');
 
 var router = express.Router();
-var dbURL="mongodb://localhost:27017/bank";
+var dbURL="mongodb://localhost:27017/company";
 
 
 //establsihe the connection
